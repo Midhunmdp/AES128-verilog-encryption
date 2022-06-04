@@ -72,3 +72,4 @@ case(c)
 8'hfc:sbout =8'hb0; 8'hfd:sbout =8'h54; 8'hfe:sbout =8'hbb; 8'hff:sbout =8'h16;
 endcase
 end
+endmodule
